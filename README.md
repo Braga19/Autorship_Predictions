@@ -10,7 +10,7 @@ The dataset used in this challenge consists of abstracts from various academic p
 
 ## Methodology & Results
 
-We approached this problem by implementing various machine learning algorithms and comparing their performance, and we finally choose a SVM algorithm (see the [Report](report.pdf) for more details). Our best performing model achieved an accuracy of 19.6% on the test set.
+We approached this problem by implementing various machine learning algorithms and comparing their performance, and we finally choose a SVM algorithm (see the [Report](Report.pdf) for more details). Our best performing model achieved an accuracy of 19.6% on the test set.
 
 ## Contributors
 
